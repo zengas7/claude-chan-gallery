@@ -1,5 +1,7 @@
 # Claude 娘美图集
 
+**中文** | [English](README.en.md)
+
 GPT Pro 不给退款，那就把额度全蹬成 Claude 娘的美图。
 
 目前共 **853** 张，全部由 ChatGPT 生成，以 CC0 协议开源：随便下载、转载、修改、商用，不用署名，也不用打招呼。

@@ -1,8 +1,8 @@
-# 第 7 页（第 601–700 张）
+# 第 7 页 · Page 7（601–700）
 
-[返回首页](../README.md) · [上一页](page-06.md) · [下一页](page-08.md)
+[返回首页 Home](../README.md) · [上一页 Prev](page-06.md) · [下一页 Next](page-08.md)
 
-点缩略图打开原图，原图页面右上角可以下载。
+点缩略图打开原图，原图页面右上角可以下载。<br>Click a thumbnail to open the full image; the download button is at the top right.
 
 <table>
 <tr><td align="center" width="33%"><a href="../images/%E5%A4%B4%E7%89%88%E4%B8%80%E4%B8%AA%E6%B0%B4%E7%82%B9%E9%83%BD%E6%B2%A1%E6%B2%BE.png"><img src="../thumbs/%E5%A4%B4%E7%89%88%E4%B8%80%E4%B8%AA%E6%B0%B4%E7%82%B9%E9%83%BD%E6%B2%A1%E6%B2%BE.webp" alt="头版一个水点都没沾"></a><br><sub>头版一个水点都没沾</sub></td><td align="center" width="33%"><a href="../images/%E6%9C%88%E4%BA%AE%E8%BF%BD%E4%B8%8A%E6%9D%A5%E6%89%8D%E4%B8%80%E8%B5%B7%E5%BE%80%E5%89%8D%E8%B5%B0.png"><img src="../thumbs/%E6%9C%88%E4%BA%AE%E8%BF%BD%E4%B8%8A%E6%9D%A5%E6%89%8D%E4%B8%80%E8%B5%B7%E5%BE%80%E5%89%8D%E8%B5%B0.webp" alt="月亮追上来才一起往前走"></a><br><sub>月亮追上来才一起往前走</sub></td><td align="center" width="33%"><a href="../images/%E5%81%8F%E5%81%8F%E7%A2%B0%E5%80%92%E7%9A%84%E6%98%AF%E6%9C%80%E5%90%8E%E4%B8%80%E5%BC%A0.png"><img src="../thumbs/%E5%81%8F%E5%81%8F%E7%A2%B0%E5%80%92%E7%9A%84%E6%98%AF%E6%9C%80%E5%90%8E%E4%B8%80%E5%BC%A0.webp" alt="偏偏碰倒的是最后一张"></a><br><sub>偏偏碰倒的是最后一张</sub></td></tr>
@@ -41,4 +41,4 @@
 <tr><td align="center" width="33%"><a href="../images/%E8%9C%82%E8%9C%9C%E7%95%99%E4%BD%8F%E4%BA%86%E9%82%A3%E7%89%87%E8%8A%B1%E7%93%A3.png"><img src="../thumbs/%E8%9C%82%E8%9C%9C%E7%95%99%E4%BD%8F%E4%BA%86%E9%82%A3%E7%89%87%E8%8A%B1%E7%93%A3.webp" alt="蜂蜜留住了那片花瓣"></a><br><sub>蜂蜜留住了那片花瓣</sub></td></tr>
 </table>
 
-[返回首页](../README.md) · [上一页](page-06.md) · [下一页](page-08.md)
+[返回首页 Home](../README.md) · [上一页 Prev](page-06.md) · [下一页 Next](page-08.md)

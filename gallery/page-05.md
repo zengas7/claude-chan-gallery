@@ -1,8 +1,8 @@
-# 第 5 页（第 401–500 张）
+# 第 5 页 · Page 5（401–500）
 
-[返回首页](../README.md) · [上一页](page-04.md) · [下一页](page-06.md)
+[返回首页 Home](../README.md) · [上一页 Prev](page-04.md) · [下一页 Next](page-06.md)
 
-点缩略图打开原图，原图页面右上角可以下载。
+点缩略图打开原图，原图页面右上角可以下载。<br>Click a thumbnail to open the full image; the download button is at the top right.
 
 <table>
 <tr><td align="center" width="33%"><a href="../images/%E9%BB%91%E5%B8%83%E5%A4%96%E5%8F%88%E5%A4%9A%E4%BA%86%E4%B8%80%E5%B1%82%E6%B2%99.png"><img src="../thumbs/%E9%BB%91%E5%B8%83%E5%A4%96%E5%8F%88%E5%A4%9A%E4%BA%86%E4%B8%80%E5%B1%82%E6%B2%99.webp" alt="黑布外又多了一层沙"></a><br><sub>黑布外又多了一层沙</sub></td><td align="center" width="33%"><a href="../images/%E6%9C%80%E5%85%88%E8%BD%AC%E5%BC%AF%E7%9A%84%E6%98%AF%E8%BF%99%E4%B8%80%E9%98%9F.png"><img src="../thumbs/%E6%9C%80%E5%85%88%E8%BD%AC%E5%BC%AF%E7%9A%84%E6%98%AF%E8%BF%99%E4%B8%80%E9%98%9F.webp" alt="最先转弯的是这一队"></a><br><sub>最先转弯的是这一队</sub></td><td align="center" width="33%"><a href="../images/%E6%96%91%E9%A9%AC%E5%96%9D%E7%A2%8E%E4%BA%86%E4%B8%80%E6%B1%A0%E6%9C%88%E5%85%89.png"><img src="../thumbs/%E6%96%91%E9%A9%AC%E5%96%9D%E7%A2%8E%E4%BA%86%E4%B8%80%E6%B1%A0%E6%9C%88%E5%85%89.webp" alt="斑马喝碎了一池月光"></a><br><sub>斑马喝碎了一池月光</sub></td></tr>
@@ -41,4 +41,4 @@
 <tr><td align="center" width="33%"><a href="../images/%E9%93%B6%E6%B2%B3%E4%B9%9F%E5%90%83%E4%BA%86%E4%B8%80%E6%83%8A.png"><img src="../thumbs/%E9%93%B6%E6%B2%B3%E4%B9%9F%E5%90%83%E4%BA%86%E4%B8%80%E6%83%8A.webp" alt="银河也吃了一惊"></a><br><sub>银河也吃了一惊</sub></td></tr>
 </table>
 
-[返回首页](../README.md) · [上一页](page-04.md) · [下一页](page-06.md)
+[返回首页 Home](../README.md) · [上一页 Prev](page-04.md) · [下一页 Next](page-06.md)

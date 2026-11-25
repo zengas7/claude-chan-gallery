@@ -1,8 +1,8 @@
-# 第 4 页（第 301–400 张）
+# 第 4 页 · Page 4（301–400）
 
-[返回首页](../README.md) · [上一页](page-03.md) · [下一页](page-05.md)
+[返回首页 Home](../README.md) · [上一页 Prev](page-03.md) · [下一页 Next](page-05.md)
 
-点缩略图打开原图，原图页面右上角可以下载。
+点缩略图打开原图，原图页面右上角可以下载。<br>Click a thumbnail to open the full image; the download button is at the top right.
 
 <table>
 <tr><td align="center" width="33%"><a href="../images/%E6%98%8E%E6%97%A9%E8%BD%AE%E5%88%B0%E5%A5%B9%E6%9D%A5%E5%BC%80%E9%97%A8.png"><img src="../thumbs/%E6%98%8E%E6%97%A9%E8%BD%AE%E5%88%B0%E5%A5%B9%E6%9D%A5%E5%BC%80%E9%97%A8.webp" alt="明早轮到她来开门"></a><br><sub>明早轮到她来开门</sub></td><td align="center" width="33%"><a href="../images/%E8%BF%99%E9%A2%97%E6%B0%94%E6%B3%A1%E9%87%8C%E4%B9%9F%E6%9C%89%E6%97%A5%E5%87%BA.png"><img src="../thumbs/%E8%BF%99%E9%A2%97%E6%B0%94%E6%B3%A1%E9%87%8C%E4%B9%9F%E6%9C%89%E6%97%A5%E5%87%BA.webp" alt="这颗气泡里也有日出"></a><br><sub>这颗气泡里也有日出</sub></td><td align="center" width="33%"><a href="../images/%E8%BF%99%E6%AC%A1%E4%B8%80%E5%AE%9A%E8%A6%81%E6%94%B6%E8%BF%9B%E5%8E%BB.png"><img src="../thumbs/%E8%BF%99%E6%AC%A1%E4%B8%80%E5%AE%9A%E8%A6%81%E6%94%B6%E8%BF%9B%E5%8E%BB.webp" alt="这次一定要收进去"></a><br><sub>这次一定要收进去</sub></td></tr>
@@ -41,4 +41,4 @@
 <tr><td align="center" width="33%"><a href="../images/%E8%BF%99%E4%B8%80%E9%A1%B5%E8%AE%A9%E9%A3%8E%E6%9D%A5%E7%BF%BB.png"><img src="../thumbs/%E8%BF%99%E4%B8%80%E9%A1%B5%E8%AE%A9%E9%A3%8E%E6%9D%A5%E7%BF%BB.webp" alt="这一页让风来翻"></a><br><sub>这一页让风来翻</sub></td></tr>
 </table>
 
-[返回首页](../README.md) · [上一页](page-03.md) · [下一页](page-05.md)
+[返回首页 Home](../README.md) · [上一页 Prev](page-03.md) · [下一页 Next](page-05.md)

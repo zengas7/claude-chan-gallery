@@ -1,8 +1,8 @@
-# 第 6 页（第 501–600 张）
+# 第 6 页 · Page 6（501–600）
 
-[返回首页](../README.md) · [上一页](page-05.md) · [下一页](page-07.md)
+[返回首页 Home](../README.md) · [上一页 Prev](page-05.md) · [下一页 Next](page-07.md)
 
-点缩略图打开原图，原图页面右上角可以下载。
+点缩略图打开原图，原图页面右上角可以下载。<br>Click a thumbnail to open the full image; the download button is at the top right.
 
 <table>
 <tr><td align="center" width="33%"><a href="../images/%E9%A2%86%E5%B8%A6%E6%AD%A3%E4%BA%86%E5%86%8D%E6%85%A2%E6%85%A2%E5%91%BC%E4%B8%80%E5%8F%A3%E6%B0%94.png"><img src="../thumbs/%E9%A2%86%E5%B8%A6%E6%AD%A3%E4%BA%86%E5%86%8D%E6%85%A2%E6%85%A2%E5%91%BC%E4%B8%80%E5%8F%A3%E6%B0%94.webp" alt="领带正了再慢慢呼一口气"></a><br><sub>领带正了再慢慢呼一口气</sub></td><td align="center" width="33%"><a href="../images/%E5%88%B0%E5%BA%95%E8%AF%A5%E8%B0%81%E5%85%88%E6%8A%AC%E5%A4%B4.png"><img src="../thumbs/%E5%88%B0%E5%BA%95%E8%AF%A5%E8%B0%81%E5%85%88%E6%8A%AC%E5%A4%B4.webp" alt="到底该谁先抬头"></a><br><sub>到底该谁先抬头</sub></td><td align="center" width="33%"><a href="../images/%E7%AD%89%E4%BA%86%E4%B9%9D%E5%8D%81%E5%85%AD%E5%B0%8F%E8%8A%82%E7%9A%84%E8%BF%99%E4%B8%80%E5%A3%B0.png"><img src="../thumbs/%E7%AD%89%E4%BA%86%E4%B9%9D%E5%8D%81%E5%85%AD%E5%B0%8F%E8%8A%82%E7%9A%84%E8%BF%99%E4%B8%80%E5%A3%B0.webp" alt="等了九十六小节的这一声"></a><br><sub>等了九十六小节的这一声</sub></td></tr>
@@ -41,4 +41,4 @@
 <tr><td align="center" width="33%"><a href="../images/%E9%B3%84%E9%B1%BC%E4%B9%9F%E5%B0%91%E4%BA%86%E4%B8%A4%E9%A2%97%E9%97%A8%E7%89%99.png"><img src="../thumbs/%E9%B3%84%E9%B1%BC%E4%B9%9F%E5%B0%91%E4%BA%86%E4%B8%A4%E9%A2%97%E9%97%A8%E7%89%99.webp" alt="鳄鱼也少了两颗门牙"></a><br><sub>鳄鱼也少了两颗门牙</sub></td></tr>
 </table>
 
-[返回首页](../README.md) · [上一页](page-05.md) · [下一页](page-07.md)
+[返回首页 Home](../README.md) · [上一页 Prev](page-05.md) · [下一页 Next](page-07.md)

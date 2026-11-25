@@ -1,8 +1,8 @@
-# 第 2 页（第 101–200 张）
+# 第 2 页 · Page 2（101–200）
 
-[返回首页](../README.md) · [上一页](page-01.md) · [下一页](page-03.md)
+[返回首页 Home](../README.md) · [上一页 Prev](page-01.md) · [下一页 Next](page-03.md)
 
-点缩略图打开原图，原图页面右上角可以下载。
+点缩略图打开原图，原图页面右上角可以下载。<br>Click a thumbnail to open the full image; the download button is at the top right.
 
 <table>
 <tr><td align="center" width="33%"><a href="../images/%E6%97%A7%E8%8C%B6%E6%9D%AF%E9%87%8C%E7%9A%84%E8%9C%82%E8%9C%A1%E9%A6%99.png"><img src="../thumbs/%E6%97%A7%E8%8C%B6%E6%9D%AF%E9%87%8C%E7%9A%84%E8%9C%82%E8%9C%A1%E9%A6%99.webp" alt="旧茶杯里的蜂蜡香"></a><br><sub>旧茶杯里的蜂蜡香</sub></td><td align="center" width="33%"><a href="../images/%E7%A9%B9%E9%A1%B6%E9%87%8E%E5%85%94%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E6%A0%B9%E8%83%A1%E9%A1%BB.png"><img src="../thumbs/%E7%A9%B9%E9%A1%B6%E9%87%8E%E5%85%94%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E6%A0%B9%E8%83%A1%E9%A1%BB.webp" alt="穹顶野兔的最后一根胡须"></a><br><sub>穹顶野兔的最后一根胡须</sub></td><td align="center" width="33%"><a href="../images/%E9%9B%AA%E5%A4%9C%E8%92%B8%E6%A3%9A%E9%87%8C%E7%9A%84%E9%87%91%E7%8E%89%E7%B1%B3.png"><img src="../thumbs/%E9%9B%AA%E5%A4%9C%E8%92%B8%E6%A3%9A%E9%87%8C%E7%9A%84%E9%87%91%E7%8E%89%E7%B1%B3.webp" alt="雪夜蒸棚里的金玉米"></a><br><sub>雪夜蒸棚里的金玉米</sub></td></tr>
@@ -41,4 +41,4 @@
 <tr><td align="center" width="33%"><a href="../images/%E6%8A%8A%E6%95%A3%E5%9C%BA%E7%9A%84%E5%BD%A9%E7%BA%B8%E5%86%8D%E6%89%AC%E4%B8%80%E6%AC%A1.png"><img src="../thumbs/%E6%8A%8A%E6%95%A3%E5%9C%BA%E7%9A%84%E5%BD%A9%E7%BA%B8%E5%86%8D%E6%89%AC%E4%B8%80%E6%AC%A1.webp" alt="把散场的彩纸再扬一次"></a><br><sub>把散场的彩纸再扬一次</sub></td></tr>
 </table>
 
-[返回首页](../README.md) · [上一页](page-01.md) · [下一页](page-03.md)
+[返回首页 Home](../README.md) · [上一页 Prev](page-01.md) · [下一页 Next](page-03.md)

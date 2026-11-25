@@ -1,8 +1,8 @@
-# 第 3 页（第 201–300 张）
+# 第 3 页 · Page 3（201–300）
 
-[返回首页](../README.md) · [上一页](page-02.md) · [下一页](page-04.md)
+[返回首页 Home](../README.md) · [上一页 Prev](page-02.md) · [下一页 Next](page-04.md)
 
-点缩略图打开原图，原图页面右上角可以下载。
+点缩略图打开原图，原图页面右上角可以下载。<br>Click a thumbnail to open the full image; the download button is at the top right.
 
 <table>
 <tr><td align="center" width="33%"><a href="../images/%E5%90%8E%E8%84%91%E5%8B%BA%E4%B9%9F%E5%BE%88%E7%A5%9E%E6%B0%94.png"><img src="../thumbs/%E5%90%8E%E8%84%91%E5%8B%BA%E4%B9%9F%E5%BE%88%E7%A5%9E%E6%B0%94.webp" alt="后脑勺也很神气"></a><br><sub>后脑勺也很神气</sub></td><td align="center" width="33%"><a href="../images/%E7%AF%AE%E5%AD%90%E5%BA%95%E4%B8%8B%E5%9E%82%E7%9D%80%E4%B8%80%E6%9D%A1%E5%B0%BE%E5%B7%B4.png"><img src="../thumbs/%E7%AF%AE%E5%AD%90%E5%BA%95%E4%B8%8B%E5%9E%82%E7%9D%80%E4%B8%80%E6%9D%A1%E5%B0%BE%E5%B7%B4.webp" alt="篮子底下垂着一条尾巴"></a><br><sub>篮子底下垂着一条尾巴</sub></td><td align="center" width="33%"><a href="../images/%E4%BB%8E%E5%B0%BA%E5%AD%90%E7%9A%84%E9%9B%B6%E5%88%BB%E5%BA%A6%E5%BC%80%E5%A7%8B.png"><img src="../thumbs/%E4%BB%8E%E5%B0%BA%E5%AD%90%E7%9A%84%E9%9B%B6%E5%88%BB%E5%BA%A6%E5%BC%80%E5%A7%8B.webp" alt="从尺子的零刻度开始"></a><br><sub>从尺子的零刻度开始</sub></td></tr>
@@ -41,4 +41,4 @@
 <tr><td align="center" width="33%"><a href="../images/%E5%88%9A%E8%80%99%E7%9B%B4%E7%9A%84%E5%B0%8F%E8%B7%AF%E6%9C%89%E5%AE%A2%E4%BA%BA%E4%BA%86.png"><img src="../thumbs/%E5%88%9A%E8%80%99%E7%9B%B4%E7%9A%84%E5%B0%8F%E8%B7%AF%E6%9C%89%E5%AE%A2%E4%BA%BA%E4%BA%86.webp" alt="刚耙直的小路有客人了"></a><br><sub>刚耙直的小路有客人了</sub></td></tr>
 </table>
 
-[返回首页](../README.md) · [上一页](page-02.md) · [下一页](page-04.md)
+[返回首页 Home](../README.md) · [上一页 Prev](page-02.md) · [下一页 Next](page-04.md)

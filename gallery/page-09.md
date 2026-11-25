@@ -1,8 +1,8 @@
-# 第 9 页（第 801–853 张）
+# 第 9 页 · Page 9（801–853）
 
-[返回首页](../README.md) · [上一页](page-08.md)
+[返回首页 Home](../README.md) · [上一页 Prev](page-08.md)
 
-点缩略图打开原图，原图页面右上角可以下载。
+点缩略图打开原图，原图页面右上角可以下载。<br>Click a thumbnail to open the full image; the download button is at the top right.
 
 <table>
 <tr><td align="center" width="33%"><a href="../images/%E6%9C%80%E5%90%8E%E4%B8%80%E6%A0%BC%E8%B0%81%E5%85%88%E8%AE%A9%E7%AC%94.png"><img src="../thumbs/%E6%9C%80%E5%90%8E%E4%B8%80%E6%A0%BC%E8%B0%81%E5%85%88%E8%AE%A9%E7%AC%94.webp" alt="最后一格谁先让笔"></a><br><sub>最后一格谁先让笔</sub></td><td align="center" width="33%"><a href="../images/%E7%90%B4%E5%BC%93%E6%8B%89%E9%86%92%E4%BA%86%E4%B8%80%E7%B0%87%E8%98%91%E8%8F%87.png"><img src="../thumbs/%E7%90%B4%E5%BC%93%E6%8B%89%E9%86%92%E4%BA%86%E4%B8%80%E7%B0%87%E8%98%91%E8%8F%87.webp" alt="琴弓拉醒了一簇蘑菇"></a><br><sub>琴弓拉醒了一簇蘑菇</sub></td><td align="center" width="33%"><a href="../images/%E4%B8%8A%E9%93%BA%E9%80%92%E6%9D%A5%E4%B8%80%E5%BC%A0%E8%9C%98%E8%9B%9B%E6%B1%82%E5%8A%A9%E4%BF%A1.png"><img src="../thumbs/%E4%B8%8A%E9%93%BA%E9%80%92%E6%9D%A5%E4%B8%80%E5%BC%A0%E8%9C%98%E8%9B%9B%E6%B1%82%E5%8A%A9%E4%BF%A1.webp" alt="上铺递来一张蜘蛛求助信"></a><br><sub>上铺递来一张蜘蛛求助信</sub></td></tr>
@@ -25,4 +25,4 @@
 <tr><td align="center" width="33%"><a href="../images/%E4%BB%8A%E6%99%9A%E7%BB%99%E6%9C%88%E4%BA%AE%E6%8D%A2%E4%B8%AA%E5%9C%86%E6%A1%86.png"><img src="../thumbs/%E4%BB%8A%E6%99%9A%E7%BB%99%E6%9C%88%E4%BA%AE%E6%8D%A2%E4%B8%AA%E5%9C%86%E6%A1%86.webp" alt="今晚给月亮换个圆框"></a><br><sub>今晚给月亮换个圆框</sub></td><td align="center" width="33%"><a href="../images/%E6%B2%99%E5%8F%91%E5%90%8E%E9%9D%A2%E5%93%AA%E6%9D%A5%E8%BF%99%E4%B9%88%E9%95%BF%E7%9A%84%E6%A5%BC%E6%A2%AF.png"><img src="../thumbs/%E6%B2%99%E5%8F%91%E5%90%8E%E9%9D%A2%E5%93%AA%E6%9D%A5%E8%BF%99%E4%B9%88%E9%95%BF%E7%9A%84%E6%A5%BC%E6%A2%AF.webp" alt="沙发后面哪来这么长的楼梯"></a><br><sub>沙发后面哪来这么长的楼梯</sub></td></tr>
 </table>
 
-[返回首页](../README.md) · [上一页](page-08.md)
+[返回首页 Home](../README.md) · [上一页 Prev](page-08.md)

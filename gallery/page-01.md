@@ -1,8 +1,8 @@
-# 第 1 页（第 1–100 张）
+# 第 1 页 · Page 1（1–100）
 
-[返回首页](../README.md) · [下一页](page-02.md)
+[返回首页 Home](../README.md) · [下一页 Next](page-02.md)
 
-点缩略图打开原图，原图页面右上角可以下载。
+点缩略图打开原图，原图页面右上角可以下载。<br>Click a thumbnail to open the full image; the download button is at the top right.
 
 <table>
 <tr><td align="center" width="33%"><a href="../images/%E9%9B%A8%E5%90%8E%E8%81%9A%E7%84%A6%E6%98%9F%E7%A9%B9.png"><img src="../thumbs/%E9%9B%A8%E5%90%8E%E8%81%9A%E7%84%A6%E6%98%9F%E7%A9%B9.webp" alt="雨后聚焦星穹"></a><br><sub>雨后聚焦星穹</sub></td><td align="center" width="33%"><a href="../images/%E7%9B%90%E6%B2%BC%E5%B0%8F%E7%AB%99%E4%B8%8E%E6%8B%9B%E6%BD%AE%E8%9F%B9.png"><img src="../thumbs/%E7%9B%90%E6%B2%BC%E5%B0%8F%E7%AB%99%E4%B8%8E%E6%8B%9B%E6%BD%AE%E8%9F%B9.webp" alt="盐沼小站与招潮蟹"></a><br><sub>盐沼小站与招潮蟹</sub></td><td align="center" width="33%"><a href="../images/%E9%9B%B7%E9%9B%A8%E4%B8%AD%E7%9A%84%E6%94%BE%E6%98%A0%E5%AE%A4.png"><img src="../thumbs/%E9%9B%B7%E9%9B%A8%E4%B8%AD%E7%9A%84%E6%94%BE%E6%98%A0%E5%AE%A4.webp" alt="雷雨中的放映室"></a><br><sub>雷雨中的放映室</sub></td></tr>
@@ -41,4 +41,4 @@
 <tr><td align="center" width="33%"><a href="../images/%E7%AC%AC%E4%B8%89%E5%9C%88%E4%B8%9D%E5%B8%A6%E7%BB%88%E4%BA%8E%E5%9C%86%E4%BA%86.png"><img src="../thumbs/%E7%AC%AC%E4%B8%89%E5%9C%88%E4%B8%9D%E5%B8%A6%E7%BB%88%E4%BA%8E%E5%9C%86%E4%BA%86.webp" alt="第三圈丝带终于圆了"></a><br><sub>第三圈丝带终于圆了</sub></td></tr>
 </table>
 
-[返回首页](../README.md) · [下一页](page-02.md)
+[返回首页 Home](../README.md) · [下一页 Next](page-02.md)

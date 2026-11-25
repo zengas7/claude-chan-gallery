@@ -1,8 +1,8 @@
-# 第 8 页（第 701–800 张）
+# 第 8 页 · Page 8（701–800）
 
-[返回首页](../README.md) · [上一页](page-07.md) · [下一页](page-09.md)
+[返回首页 Home](../README.md) · [上一页 Prev](page-07.md) · [下一页 Next](page-09.md)
 
-点缩略图打开原图，原图页面右上角可以下载。
+点缩略图打开原图，原图页面右上角可以下载。<br>Click a thumbnail to open the full image; the download button is at the top right.
 
 <table>
 <tr><td align="center" width="33%"><a href="../images/%E5%88%B0%E8%BF%99%E9%87%8C%E5%B7%B2%E7%BB%8F%E5%8F%AA%E9%9A%94%E4%B8%80%E6%AD%A5.png"><img src="../thumbs/%E5%88%B0%E8%BF%99%E9%87%8C%E5%B7%B2%E7%BB%8F%E5%8F%AA%E9%9A%94%E4%B8%80%E6%AD%A5.webp" alt="到这里已经只隔一步"></a><br><sub>到这里已经只隔一步</sub></td><td align="center" width="33%"><a href="../images/%E6%98%AF%E9%9D%A2%E5%9B%A2%E5%85%88%E7%9D%A1%E9%86%92%E4%BA%86.png"><img src="../thumbs/%E6%98%AF%E9%9D%A2%E5%9B%A2%E5%85%88%E7%9D%A1%E9%86%92%E4%BA%86.webp" alt="是面团先睡醒了"></a><br><sub>是面团先睡醒了</sub></td><td align="center" width="33%"><a href="../images/%E8%AE%A9%E8%8A%B1%E7%93%A3%E5%88%97%E8%BD%A6%E5%85%88%E8%BF%87.png"><img src="../thumbs/%E8%AE%A9%E8%8A%B1%E7%93%A3%E5%88%97%E8%BD%A6%E5%85%88%E8%BF%87.webp" alt="让花瓣列车先过"></a><br><sub>让花瓣列车先过</sub></td></tr>
@@ -41,4 +41,4 @@
 <tr><td align="center" width="33%"><a href="../images/%E7%AC%AC%E4%B8%80%E6%BB%B4%E7%A7%8B%E6%B2%B9%E8%90%BD%E5%9C%A8%E9%9D%A2%E5%8C%85%E4%B8%8A.png"><img src="../thumbs/%E7%AC%AC%E4%B8%80%E6%BB%B4%E7%A7%8B%E6%B2%B9%E8%90%BD%E5%9C%A8%E9%9D%A2%E5%8C%85%E4%B8%8A.webp" alt="第一滴秋油落在面包上"></a><br><sub>第一滴秋油落在面包上</sub></td></tr>
 </table>
 
-[返回首页](../README.md) · [上一页](page-07.md) · [下一页](page-09.md)
+[返回首页 Home](../README.md) · [上一页 Prev](page-07.md) · [下一页 Next](page-09.md)
